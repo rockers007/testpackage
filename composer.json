@@ -1,0 +1,12 @@
+{
+    "name": "testmodule/test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rockers Technologies",
+            "email": "jaimin.rockersinfo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
